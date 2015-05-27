@@ -1,0 +1,13 @@
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\bin\Debug\FairVisitorApp.exe.config
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.exe
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.pdb
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\bin\Debug\FairVisitorApp.exe
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\bin\Debug\FairVisitorApp.pdb
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorManagementSystem.csprojResolveAssemblyReference.cache
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.UI.MainAreaUi.resources
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.Properties.Resources.resources
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.UI.VisitorEntryUi.resources
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.UI.ZoneSpecificVisitorInformationReportUi.resources
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.UI.ZoneTypeEntryUi.resources
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorApp.UI.ZoneTypeWiseVisitorNumberUi.resources
+G:\Work\SEIP_Practice\FairVisitorApp\FairVisitorApp\obj\Debug\FairVisitorManagementSystem.csproj.GenerateResource.Cache
